@@ -37,6 +37,13 @@ footer {
     font-size: small;
 }
 
+#szamitas-aroma:hover {
+    background-color: #1d1d1d;
+}
+
+#szamitas-flaska:hover {
+    background-color: #1d1d1d;
+}
 
 #aroma-gomb {
     background-color: #1d1d1d;
