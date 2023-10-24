@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: green;
+    font-family: monospace;
+    font-size: large;
+}
+
+input {
+    background-color: #000;
+    color: green;
+    border: .5px green solid;
+    width: 240px;
+    height: 40px;
+    font-family: monospace;
+    text-align: center;
+    font-size: large;
+}
+
+button {
+    background-color: #000;
+    border: green solid;
+    color: green;
+    border-radius: 7px;
+    font-size: large;
+    width: 110px;
+    height: 60px;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: small;
+}
+
+
+#aroma-gomb {
+    background-color: #1d1d1d;
+}
+
+#aroma-szam {
+    display: inline;
+}
+
+#flaska-szam {
+    display: none;
+}
+
+#flaska-br {
+    display: none;
+}
