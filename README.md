@@ -1,6 +1,6 @@
 # Eliqszam (E-liquid számológép)
 <img align='right' src="https://eliqszam.stonawski.hu/icon/eliqszamlogo.png" width="230">
-<p><em>Légy a saját személyes eliquid szakértőd, és hozz létre páratlan ízvilágokat <img src="https://media3.giphy.com/media/5bbvjR4BCgxIEGzYH7/giphy.gif?cid=ecf05e47trc05o2gfyj7lpy33d1tp4rcn29vb5r5i03ml0q0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">
+<p><em>Légy a saját e-liquid szakértőd, és hozz létre páratlan ízvilágokat <img src="https://media3.giphy.com/media/5bbvjR4BCgxIEGzYH7/giphy.gif?cid=ecf05e47trc05o2gfyj7lpy33d1tp4rcn29vb5r5i03ml0q0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">
 </em></p>
 
 [<img src="https://eliqszam.stonawski.hu/icon/eliqszambanner.png">](https://eliqszam.stonawski.hu/)
