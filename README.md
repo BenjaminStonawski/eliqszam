@@ -13,7 +13,7 @@ Készítette: Benjamin Stonawski
 ---
 <em>Ez az alkalmazás kiszámolja a legegészségesebb és legfinomabb arányokat az aroma, a flaska és az alaplé között. A számolások felhasználásához mérlegre van szükségünk, az aroma és alaplé hiszen nem milliliterben, hanem grammban értendők, hiszen ezen anyagok összetételének súlya mindig változhat, millilitertől függetlenül!
 </em>
-### Hogyan tudom megnézni, hogy mennyi a napidő?
+### Hogyan adjam meg az értéket?
 <em>Az értékek megadásakor csak számot írjunk be, ne írjunk utána mértékegységet (pl.: 16).</em>
 <em>Ha az érték, amit megadunk az nem egész szám, akkor ne vesszővel, hanem ponttal határozzuk meg a tizedesvesszőt (pl.: 16,5 helyett 16.5).</em>
 ### Miért pont ennyi legyen?
